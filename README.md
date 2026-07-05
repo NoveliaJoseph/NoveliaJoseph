@@ -11,7 +11,6 @@ I'm passionate about building intelligent applications using Artificial Intellig
 - 🎓 Master of Computer Applications (MCA)
 - 💻 Interested in AI, NLP, RAG and Backend Development
 - 🌱 Currently learning Deep Learning and LLM Engineering
-- 📍 Ernakulam, Kerala
 
 ---
 
@@ -44,8 +43,6 @@ Deep Learning based phishing URL detection using BERT and BiLSTM.
 ---
 
 ## 📫 Connect With Me
-
-📧 noveliajosephk@gmail.com
 
 LinkedIn:
 https://linkedin.com/in/YOUR-LINKEDIN
