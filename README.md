@@ -6,7 +6,7 @@ I'm passionate about building intelligent applications using Artificial Intellig
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 - 🎓 Master of Computer Applications (MCA)
 - 💻 Interested in AI, NLP, RAG and Backend Development
@@ -14,7 +14,7 @@ I'm passionate about building intelligent applications using Artificial Intellig
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 - Python
 - Django
@@ -26,23 +26,23 @@ I'm passionate about building intelligent applications using Artificial Intellig
 
 ---
 
-## 🚀 Projects
+🚀 Projects
 
-### 📄 DocQuery AI
+📄 DocQuery AI
 
 A privacy-first RAG-powered PDF chatbot built using Django, LangChain, FAISS and Ollama.
 
-### 😊 Emogram
+😊 Emogram
 
 Sentiment Analysis System using Django, Python and NLTK.
 
-### 🛡️ BERT-BiLSTM Phishing Detector
+🛡️ BERT-BiLSTM Phishing Detector
 
 Deep Learning based phishing URL detection using BERT and BiLSTM.
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 LinkedIn:
 https://linkedin.com/in/YOUR-LINKEDIN
