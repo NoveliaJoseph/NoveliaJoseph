@@ -42,7 +42,7 @@ Deep Learning based phishing URL detection using BERT and BiLSTM.
 
 ---
 
-📫 Connect With Me
+Connect With Me
 
 LinkedIn:
 https://linkedin.com/in/YOUR-LINKEDIN
